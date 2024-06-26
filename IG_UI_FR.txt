@@ -1,0 +1,8 @@
+IGUI_FR = {
+
+    IGUI_BuildingMenuSubCat_Walls_White_Industrial_Walls = "Murs industriels blancs",
+    IGUI_BuildingMenuSubCat_Walls_Blue_Industrial_Walls = "Murs industriels bleus",
+    IGUI_BuildingMenuSubCat_Walls_Light_Green_Industrial_Walls = "Murs industriels vert clair",
+    IGUI_BuildingMenuSubCat_Walls_Green_Industrial_Walls = "Murs industriels verts",
+
+}
